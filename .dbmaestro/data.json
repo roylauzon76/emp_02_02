@@ -94,6 +94,17 @@
                     "Password": "3Gb0hbYzmDIwRNmEt2GLYw==",
                     "DatabaseName": "db1_02_02_user2"
                   }
+                },
+                {
+                  "BranchName": "b1_02_02",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "SQL Server",
+                    "Host": ".\\sqlexpress",
+                    "AuthenticationType": 1,
+                    "Username": "sa",
+                    "Password": "3Gb0hbYzmDIwRNmEt2GLYw==",
+                    "DatabaseName": "branch_u2_02_02"
+                  }
                 }
               ],
               "RepositoryCredentials": {
