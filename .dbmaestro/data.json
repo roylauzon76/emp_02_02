@@ -64,6 +64,33 @@
               }
             }
           ]
+        },
+        {
+          "UserName": "roylauzon76",
+          "DatabasesData": [
+            {
+              "DatabaseId": "4fbc279c-9161-450e-a061-0f161a901440",
+              "DatabaseAliasName": "db1",
+              "DatabaseConnectionDetails": null,
+              "BranchesDatabaseConnectionDetails": [
+                {
+                  "BranchName": "main",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "SQL Server",
+                    "Host": ".\\sqlexpress",
+                    "AuthenticationType": 1,
+                    "Username": "sa",
+                    "Password": "3Gb0hbYzmDIwRNmEt2GLYw==",
+                    "DatabaseName": "db1_02_02_user2"
+                  }
+                }
+              ],
+              "RepositoryCredentials": {
+                "UserName": "roylauzon76",
+                "Password": "pbpuK3Ki2jUr7GlAUTmhhJthV/vkcB3hAanzkKBhsUyppab+cimEZFk7YJDb6C68"
+              }
+            }
+          ]
         }
       ]
     }
