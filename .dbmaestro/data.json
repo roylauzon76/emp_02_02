@@ -56,6 +56,17 @@
                     "Password": "3Gb0hbYzmDIwRNmEt2GLYw==",
                     "DatabaseName": "db1_02_02_user1"
                   }
+                },
+                {
+                  "BranchName": "b1_02_02",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "SQL Server",
+                    "Host": "DOPX-ROY\\SQLEXPRESS",
+                    "AuthenticationType": 1,
+                    "Username": "sa",
+                    "Password": "3Gb0hbYzmDIwRNmEt2GLYw==",
+                    "DatabaseName": "b1_02_02"
+                  }
                 }
               ],
               "RepositoryCredentials": {
